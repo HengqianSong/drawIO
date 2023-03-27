@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T02:44:36.205Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="yE1hoYLodGCm6ZdRnkRY" version="21.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-27T06:33:03.356Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="9yU8HBj66uWggBSQfh15" version="21.0.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="954" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1590" dy="845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -13,11 +13,11 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="进入视频详情页" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="90" y="370" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8R7DsGHaiKelBad2kOEh-18" value="成功响应" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8R7DsGHaiKelBad2kOEh-5" target="8R7DsGHaiKelBad2kOEh-17">
+        <mxCell id="8R7DsGHaiKelBad2kOEh-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8R7DsGHaiKelBad2kOEh-5" target="8R7DsGHaiKelBad2kOEh-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8R7DsGHaiKelBad2kOEh-5" value="广告请求" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="465" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8R7DsGHaiKelBad2kOEh-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8R7DsGHaiKelBad2kOEh-7" target="8R7DsGHaiKelBad2kOEh-9">
           <mxGeometry relative="1" as="geometry" />
@@ -28,7 +28,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8R7DsGHaiKelBad2kOEh-7" value="推荐视频请求" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="260" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8R7DsGHaiKelBad2kOEh-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8R7DsGHaiKelBad2kOEh-9" target="8R7DsGHaiKelBad2kOEh-12">
           <mxGeometry relative="1" as="geometry" />
@@ -39,16 +39,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8R7DsGHaiKelBad2kOEh-9" value="广告数据是否返回" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="240" width="80" height="80" as="geometry" />
+          <mxGeometry x="530" y="240" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8R7DsGHaiKelBad2kOEh-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8R7DsGHaiKelBad2kOEh-12" target="8R7DsGHaiKelBad2kOEh-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8R7DsGHaiKelBad2kOEh-12" value="根据广告插入位置合并数据" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="620" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="867" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8R7DsGHaiKelBad2kOEh-15" value="刷新界面" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="827" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="8R7DsGHaiKelBad2kOEh-15" value="根据adStyle样式渲染不同的布局" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1040" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8R7DsGHaiKelBad2kOEh-20" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8R7DsGHaiKelBad2kOEh-17" target="8R7DsGHaiKelBad2kOEh-19">
           <mxGeometry relative="1" as="geometry" />
@@ -62,19 +62,48 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8R7DsGHaiKelBad2kOEh-17" value="主版推荐视频是否返回" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="450" width="80" height="80" as="geometry" />
+          <mxGeometry x="727" y="450" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8R7DsGHaiKelBad2kOEh-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8R7DsGHaiKelBad2kOEh-19" target="8R7DsGHaiKelBad2kOEh-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8R7DsGHaiKelBad2kOEh-19" value="在主版数据中插入广告" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="610" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="867" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8R7DsGHaiKelBad2kOEh-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8R7DsGHaiKelBad2kOEh-21" target="8R7DsGHaiKelBad2kOEh-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8R7DsGHaiKelBad2kOEh-21" value="保存该次数据等待主版数据返回更新" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="707" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8R7DsGHaiKelBad2kOEh-30" value="该组所有广告返回" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8R7DsGHaiKelBad2kOEh-27" target="8R7DsGHaiKelBad2kOEh-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8R7DsGHaiKelBad2kOEh-27" value="过滤不可用的素材" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="590" y="590" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8R7DsGHaiKelBad2kOEh-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8R7DsGHaiKelBad2kOEh-29" target="8R7DsGHaiKelBad2kOEh-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8R7DsGHaiKelBad2kOEh-29" value="竞价获取最优广告" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="590" y="460" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8R7DsGHaiKelBad2kOEh-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8R7DsGHaiKelBad2kOEh-31" target="8R7DsGHaiKelBad2kOEh-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8R7DsGHaiKelBad2kOEh-31" value="墨迹服务器返回广告投放" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="381" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8R7DsGHaiKelBad2kOEh-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8R7DsGHaiKelBad2kOEh-33" target="8R7DsGHaiKelBad2kOEh-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8R7DsGHaiKelBad2kOEh-36" value="sdk响应成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8R7DsGHaiKelBad2kOEh-35">
+          <mxGeometry x="-0.1667" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8R7DsGHaiKelBad2kOEh-33" value="根据插入位置对广告进行分组并行发起SDK请求" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="381" y="585" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
