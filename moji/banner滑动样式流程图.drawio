@@ -1,9 +1,106 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T07:34:23.305Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.1.8" etag="RoujPGxqFnA_zu_GkE7x" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-26T08:12:42.670Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="N5chF4UODMkEZfTOq-Sz" version="21.1.8" type="github">
   <diagram name="第 1 页" id="gqrQ67TxU9VEmfnCN-EX">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oe-TlGgRRBx1HyXRyKMN-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oe-TlGgRRBx1HyXRyKMN-1" target="oe-TlGgRRBx1HyXRyKMN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oe-TlGgRRBx1HyXRyKMN-1" value="获取sdk素材" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oe-TlGgRRBx1HyXRyKMN-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oe-TlGgRRBx1HyXRyKMN-2" target="oe-TlGgRRBx1HyXRyKMN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oe-TlGgRRBx1HyXRyKMN-6" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oe-TlGgRRBx1HyXRyKMN-5">
+          <mxGeometry x="-0.1" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oe-TlGgRRBx1HyXRyKMN-2" value="素材是否符合投放样式" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="760" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oe-TlGgRRBx1HyXRyKMN-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oe-TlGgRRBx1HyXRyKMN-4" target="oe-TlGgRRBx1HyXRyKMN-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oe-TlGgRRBx1HyXRyKMN-4" value="根据素材样式与投放的样式转化为实际展示的样式" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="770" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oe-TlGgRRBx1HyXRyKMN-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oe-TlGgRRBx1HyXRyKMN-7" target="oe-TlGgRRBx1HyXRyKMN-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oe-TlGgRRBx1HyXRyKMN-14" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oe-TlGgRRBx1HyXRyKMN-13">
+          <mxGeometry x="-0.1143" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oe-TlGgRRBx1HyXRyKMN-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oe-TlGgRRBx1HyXRyKMN-7" target="oe-TlGgRRBx1HyXRyKMN-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oe-TlGgRRBx1HyXRyKMN-18" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oe-TlGgRRBx1HyXRyKMN-16">
+          <mxGeometry x="-0.2778" y="2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oe-TlGgRRBx1HyXRyKMN-7" value="是否需要素材审核" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="760" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oe-TlGgRRBx1HyXRyKMN-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oe-TlGgRRBx1HyXRyKMN-9" target="oe-TlGgRRBx1HyXRyKMN-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oe-TlGgRRBx1HyXRyKMN-9" value="最有广告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="770" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oe-TlGgRRBx1HyXRyKMN-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oe-TlGgRRBx1HyXRyKMN-12" target="oe-TlGgRRBx1HyXRyKMN-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oe-TlGgRRBx1HyXRyKMN-19" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oe-TlGgRRBx1HyXRyKMN-17">
+          <mxGeometry x="-0.3095" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oe-TlGgRRBx1HyXRyKMN-12" value="素材是否审核成" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="760" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oe-TlGgRRBx1HyXRyKMN-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oe-TlGgRRBx1HyXRyKMN-15" target="oe-TlGgRRBx1HyXRyKMN-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oe-TlGgRRBx1HyXRyKMN-15" value="渲染适配器做样式适配 :图文/视频" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oe-TlGgRRBx1HyXRyKMN-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oe-TlGgRRBx1HyXRyKMN-20" target="oe-TlGgRRBx1HyXRyKMN-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oe-TlGgRRBx1HyXRyKMN-24" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oe-TlGgRRBx1HyXRyKMN-23">
+          <mxGeometry x="-0.2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oe-TlGgRRBx1HyXRyKMN-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oe-TlGgRRBx1HyXRyKMN-20" target="oe-TlGgRRBx1HyXRyKMN-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oe-TlGgRRBx1HyXRyKMN-28" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oe-TlGgRRBx1HyXRyKMN-26">
+          <mxGeometry x="-0.2424" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oe-TlGgRRBx1HyXRyKMN-20" value="是否具备滑动能力" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="880" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oe-TlGgRRBx1HyXRyKMN-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="oe-TlGgRRBx1HyXRyKMN-22" target="oe-TlGgRRBx1HyXRyKMN-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oe-TlGgRRBx1HyXRyKMN-22" value="增加联盟的滑动view到页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oe-TlGgRRBx1HyXRyKMN-25" value="渲染广告实际的视图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
