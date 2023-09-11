@@ -1,9 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2023-09-11T10:25:42.032Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.6.6" etag="gauN-kBF4GzU1kbKgTTx" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-11T10:42:22.854Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="O8u8x_xe26SJu4LaKJxm" version="21.6.6" type="github">
   <diagram name="第 1 页" id="llk3EyRXvQeaN0CV_E1r">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="h7s1iXQDxn3D3ugCvHFB-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h7s1iXQDxn3D3ugCvHFB-1" target="h7s1iXQDxn3D3ugCvHFB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h7s1iXQDxn3D3ugCvHFB-1" value="开屏广告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h7s1iXQDxn3D3ugCvHFB-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h7s1iXQDxn3D3ugCvHFB-2" target="h7s1iXQDxn3D3ugCvHFB-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h7s1iXQDxn3D3ugCvHFB-12" value="是&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h7s1iXQDxn3D3ugCvHFB-5">
+          <mxGeometry x="-0.1333" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h7s1iXQDxn3D3ugCvHFB-2" value="是否为滑动样式" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h7s1iXQDxn3D3ugCvHFB-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h7s1iXQDxn3D3ugCvHFB-4" target="h7s1iXQDxn3D3ugCvHFB-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h7s1iXQDxn3D3ugCvHFB-4" value="根据滑动样式的模版渲染布局" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h7s1iXQDxn3D3ugCvHFB-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h7s1iXQDxn3D3ugCvHFB-6" target="h7s1iXQDxn3D3ugCvHFB-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h7s1iXQDxn3D3ugCvHFB-6" value="注册滑动代理,监听用户行为" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h7s1iXQDxn3D3ugCvHFB-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h7s1iXQDxn3D3ugCvHFB-8" target="h7s1iXQDxn3D3ugCvHFB-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h7s1iXQDxn3D3ugCvHFB-13" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="h7s1iXQDxn3D3ugCvHFB-11">
+          <mxGeometry x="-0.08" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h7s1iXQDxn3D3ugCvHFB-8" value="是否符合跳转条件" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="590" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h7s1iXQDxn3D3ugCvHFB-10" value="跳转落地页" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
