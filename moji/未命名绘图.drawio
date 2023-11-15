@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T06:28:48.881Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="yVZaEXrvhZ3m85_9Z7Qo" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-15T06:33:43.912Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="2bKhx7Ya90aczMOs8e60" version="21.7.5" type="github">
   <diagram name="第 1 页" id="FTbz0e3pOwdENS1Vb9-P">
     <mxGraphModel dx="1331" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -454,6 +454,42 @@
         </mxCell>
         <mxCell id="DTeoqs4xQ5DBu7QQbc9a-166" value="根据服务端字段删除不可打底的缓存" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="810" y="1260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DTeoqs4xQ5DBu7QQbc9a-172" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="450" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DTeoqs4xQ5DBu7QQbc9a-173" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;fillColor=none;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="220" y="270" width="350" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="DTeoqs4xQ5DBu7QQbc9a-174" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTeoqs4xQ5DBu7QQbc9a-175" value="此处逻辑改为异步" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="365" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTeoqs4xQ5DBu7QQbc9a-176" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="450" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DTeoqs4xQ5DBu7QQbc9a-177" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;fillColor=none;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="820" y="440" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DTeoqs4xQ5DBu7QQbc9a-178" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTeoqs4xQ5DBu7QQbc9a-179" value="此处逻辑改为异步" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="970" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTeoqs4xQ5DBu7QQbc9a-180" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;fillColor=none;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1080" width="350" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="DTeoqs4xQ5DBu7QQbc9a-182" value="此处逻辑改为异步" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="353" y="1105" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DTeoqs4xQ5DBu7QQbc9a-183" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;fillColor=none;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="790" y="1240" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DTeoqs4xQ5DBu7QQbc9a-184" value="此处逻辑改为异步" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="940" y="1285" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
