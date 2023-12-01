@@ -1,9 +1,115 @@
-<mxfile host="app.diagrams.net" modified="2023-11-23T10:26:37.797Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.3" etag="mW7hO7Tw4fuZEG_DzVi3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T12:08:07.023Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="JIQ2wzplDc15TPwdT5DB" version="22.1.5" type="github">
   <diagram name="第 1 页" id="24cDdwgGr8rKVbnOMR4E">
-    <mxGraphModel>
+    <mxGraphModel dx="2320" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EWPKpe6jMjWTSX13RBjs-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EWPKpe6jMjWTSX13RBjs-1" target="EWPKpe6jMjWTSX13RBjs-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EWPKpe6jMjWTSX13RBjs-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EWPKpe6jMjWTSX13RBjs-1" target="EWPKpe6jMjWTSX13RBjs-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EWPKpe6jMjWTSX13RBjs-1" value="墨迹投放加载层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWPKpe6jMjWTSX13RBjs-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EWPKpe6jMjWTSX13RBjs-4" target="EWPKpe6jMjWTSX13RBjs-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EWPKpe6jMjWTSX13RBjs-8" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EWPKpe6jMjWTSX13RBjs-7">
+          <mxGeometry x="-0.0889" y="-3" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EWPKpe6jMjWTSX13RBjs-4" value="是否有阿里tanx广告" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EWPKpe6jMjWTSX13RBjs-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EWPKpe6jMjWTSX13RBjs-6" target="EWPKpe6jMjWTSX13RBjs-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EWPKpe6jMjWTSX13RBjs-12" value="发起请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EWPKpe6jMjWTSX13RBjs-11">
+          <mxGeometry x="-0.144" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EWPKpe6jMjWTSX13RBjs-6" value="创建阿里tanx Loader加载器" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWPKpe6jMjWTSX13RBjs-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EWPKpe6jMjWTSX13RBjs-13" target="EWPKpe6jMjWTSX13RBjs-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EWPKpe6jMjWTSX13RBjs-16" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EWPKpe6jMjWTSX13RBjs-15">
+          <mxGeometry x="-0.18" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EWPKpe6jMjWTSX13RBjs-13" value="是否响应成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EWPKpe6jMjWTSX13RBjs-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EWPKpe6jMjWTSX13RBjs-14" target="EWPKpe6jMjWTSX13RBjs-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EWPKpe6jMjWTSX13RBjs-19" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EWPKpe6jMjWTSX13RBjs-18">
+          <mxGeometry x="-0.32" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EWPKpe6jMjWTSX13RBjs-14" value="是否所有广告都有响应" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EWPKpe6jMjWTSX13RBjs-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EWPKpe6jMjWTSX13RBjs-17" target="EWPKpe6jMjWTSX13RBjs-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EWPKpe6jMjWTSX13RBjs-17" value="bidding层开启竞价" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWPKpe6jMjWTSX13RBjs-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EWPKpe6jMjWTSX13RBjs-20" target="EWPKpe6jMjWTSX13RBjs-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EWPKpe6jMjWTSX13RBjs-24" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EWPKpe6jMjWTSX13RBjs-23">
+          <mxGeometry x="-0.18" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EWPKpe6jMjWTSX13RBjs-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EWPKpe6jMjWTSX13RBjs-20" target="EWPKpe6jMjWTSX13RBjs-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EWPKpe6jMjWTSX13RBjs-27" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EWPKpe6jMjWTSX13RBjs-26">
+          <mxGeometry x="-0.0678" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EWPKpe6jMjWTSX13RBjs-20" value="是否竞胜" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EWPKpe6jMjWTSX13RBjs-22" value="添加到容器view展示广告" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWPKpe6jMjWTSX13RBjs-25" value="走入视图渲染层,判断是否展示打底广告" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWPKpe6jMjWTSX13RBjs-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EWPKpe6jMjWTSX13RBjs-29" target="EWPKpe6jMjWTSX13RBjs-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EWPKpe6jMjWTSX13RBjs-29" value="开启定时器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWPKpe6jMjWTSX13RBjs-31" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EWPKpe6jMjWTSX13RBjs-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EWPKpe6jMjWTSX13RBjs-32" target="EWPKpe6jMjWTSX13RBjs-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EWPKpe6jMjWTSX13RBjs-35" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EWPKpe6jMjWTSX13RBjs-34">
+          <mxGeometry x="-0.0168" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EWPKpe6jMjWTSX13RBjs-32" value="是否到超时时间" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
