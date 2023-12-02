@@ -1,45 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T10:46:55.166Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="YwrKqgpPXCI39rUjY5ik" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-02T04:23:21.853Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="19iJg--YnKiARSU0O_yX" version="22.1.5" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
-    <mxGraphModel dx="1837" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1193" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eTd7XkPwyjDqmSCZ6FU--1" value="冷启动视图" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="100" y="425" width="200" height="200" as="geometry" />
+        <mxCell id="eTd7XkPwyjDqmSCZ6FU--1" value="冷启动视图" style="swimlane;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+          <mxGeometry x="100" y="425" width="200" height="245" as="geometry" />
         </mxCell>
-        <mxCell id="eTd7XkPwyjDqmSCZ6FU--2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eTd7XkPwyjDqmSCZ6FU--1">
-          <mxGeometry x="20" y="50" width="160" height="130" as="geometry" />
+        <mxCell id="eTd7XkPwyjDqmSCZ6FU--2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="eTd7XkPwyjDqmSCZ6FU--1" vertex="1">
+          <mxGeometry x="20" y="50" width="160" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="eTd7XkPwyjDqmSCZ6FU--3" value="MainActivity" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eTd7XkPwyjDqmSCZ6FU--1">
+        <mxCell id="eTd7XkPwyjDqmSCZ6FU--3" value="MainActivity" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="eTd7XkPwyjDqmSCZ6FU--1" vertex="1">
           <mxGeometry x="70" y="55" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eTd7XkPwyjDqmSCZ6FU--4" value="TableScreenFragment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eTd7XkPwyjDqmSCZ6FU--1">
-          <mxGeometry x="40" y="105" width="120" height="60" as="geometry" />
+        <mxCell id="eTd7XkPwyjDqmSCZ6FU--4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="eTd7XkPwyjDqmSCZ6FU--1" vertex="1">
+          <mxGeometry x="40" y="105" width="120" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="eTd7XkPwyjDqmSCZ6FU--5" value="视频视图&lt;br&gt;(SplashVideoActivity&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="440" width="140" height="185" as="geometry" />
+        <mxCell id="ud8pD7wxh-Pea_sjiicB-4" value="TableScreenFragment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eTd7XkPwyjDqmSCZ6FU--1">
+          <mxGeometry x="75" y="105" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eTd7XkPwyjDqmSCZ6FU--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.021;entryY=0.468;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eTd7XkPwyjDqmSCZ6FU--1" target="eTd7XkPwyjDqmSCZ6FU--5">
+        <mxCell id="ud8pD7wxh-Pea_sjiicB-5" value="开屏样式" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="eTd7XkPwyjDqmSCZ6FU--1">
+          <mxGeometry x="51.25" y="145" width="97.5" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="eTd7XkPwyjDqmSCZ6FU--5" value="视频视图&lt;br&gt;(SplashVideoActivity&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+          <mxGeometry x="440" y="460" width="140" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="eTd7XkPwyjDqmSCZ6FU--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.021;entryY=0.468;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="eTd7XkPwyjDqmSCZ6FU--1" target="eTd7XkPwyjDqmSCZ6FU--5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eTd7XkPwyjDqmSCZ6FU--7" value="自有或API视频" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eTd7XkPwyjDqmSCZ6FU--6">
+        <mxCell id="eTd7XkPwyjDqmSCZ6FU--7" value="自有或API视频" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="eTd7XkPwyjDqmSCZ6FU--6" vertex="1" connectable="0">
           <mxGeometry x="-0.1278" y="1" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eTd7XkPwyjDqmSCZ6FU--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eTd7XkPwyjDqmSCZ6FU--8" target="eTd7XkPwyjDqmSCZ6FU--5">
+        <mxCell id="eTd7XkPwyjDqmSCZ6FU--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="eTd7XkPwyjDqmSCZ6FU--8" target="eTd7XkPwyjDqmSCZ6FU--5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eTd7XkPwyjDqmSCZ6FU--15" value="自有或API视频" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eTd7XkPwyjDqmSCZ6FU--10">
+        <mxCell id="eTd7XkPwyjDqmSCZ6FU--15" value="自有或API视频" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="eTd7XkPwyjDqmSCZ6FU--10" vertex="1" connectable="0">
           <mxGeometry x="-0.4145" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eTd7XkPwyjDqmSCZ6FU--8" value="热启动视图" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="100" y="660" width="200" height="200" as="geometry" />
+        <mxCell id="eTd7XkPwyjDqmSCZ6FU--8" value="热启动视图" style="swimlane;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+          <mxGeometry x="100" y="730" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="eTd7XkPwyjDqmSCZ6FU--9" value="TableScreen Activity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eTd7XkPwyjDqmSCZ6FU--8">
+        <mxCell id="eTd7XkPwyjDqmSCZ6FU--9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="eTd7XkPwyjDqmSCZ6FU--8" vertex="1">
           <mxGeometry x="40" y="50" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ud8pD7wxh-Pea_sjiicB-1" value="开屏样式" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="eTd7XkPwyjDqmSCZ6FU--8">
+          <mxGeometry x="57.5" y="100" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ud8pD7wxh-Pea_sjiicB-3" value="TableScreenActivity" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eTd7XkPwyjDqmSCZ6FU--8">
+          <mxGeometry x="70" y="60" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
