@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T02:42:45.125Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_4mgSoqbGh9JQWMjjwfG" version="23.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-24T02:42:57.172Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="VtTb7MBJwrrk05c5kQaW" version="23.0.0" type="github">
   <diagram name="第 1 页" id="M-bujQQklK8ykTj6TOYn">
     <mxGraphModel dx="954" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -91,6 +91,11 @@
             <Array as="points">
               <mxPoint x="280" y="525" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QQTeGX5ZshziLy3mVFrV-33" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QQTeGX5ZshziLy3mVFrV-32">
+          <mxGeometry x="-0.5342" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QQTeGX5ZshziLy3mVFrV-22" value="广告是否成功展示" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
