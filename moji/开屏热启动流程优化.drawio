@@ -1,121 +1,102 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T02:51:20.969Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="yRgPrTiOhD8rcvJX5aZd" version="23.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-24T03:34:54.085Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="jjo5JqXr05o94cJYa18j" version="23.0.0" type="github">
   <diagram name="第 1 页" id="M-bujQQklK8ykTj6TOYn">
     <mxGraphModel dx="954" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QQTeGX5ZshziLy3mVFrV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QQTeGX5ZshziLy3mVFrV-1" target="QQTeGX5ZshziLy3mVFrV-2">
+        <mxCell id="QQTeGX5ZshziLy3mVFrV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QQTeGX5ZshziLy3mVFrV-1" target="QQTeGX5ZshziLy3mVFrV-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QQTeGX5ZshziLy3mVFrV-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+        <mxCell id="QQTeGX5ZshziLy3mVFrV-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="80" y="250" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QQTeGX5ZshziLy3mVFrV-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QQTeGX5ZshziLy3mVFrV-2" target="QQTeGX5ZshziLy3mVFrV-6">
+        <mxCell id="QQTeGX5ZshziLy3mVFrV-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QQTeGX5ZshziLy3mVFrV-2" target="QQTeGX5ZshziLy3mVFrV-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QQTeGX5ZshziLy3mVFrV-8" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QQTeGX5ZshziLy3mVFrV-7">
+        <mxCell id="QQTeGX5ZshziLy3mVFrV-8" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QQTeGX5ZshziLy3mVFrV-7" vertex="1" connectable="0">
           <mxGeometry y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QQTeGX5ZshziLy3mVFrV-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QQTeGX5ZshziLy3mVFrV-2" target="QQTeGX5ZshziLy3mVFrV-9">
+        <mxCell id="QQTeGX5ZshziLy3mVFrV-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QQTeGX5ZshziLy3mVFrV-2" target="QQTeGX5ZshziLy3mVFrV-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QQTeGX5ZshziLy3mVFrV-14" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QQTeGX5ZshziLy3mVFrV-10">
+        <mxCell id="QQTeGX5ZshziLy3mVFrV-14" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QQTeGX5ZshziLy3mVFrV-10" vertex="1" connectable="0">
           <mxGeometry x="-0.2" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QQTeGX5ZshziLy3mVFrV-2" value="是否超过了热启动阀值" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+        <mxCell id="QQTeGX5ZshziLy3mVFrV-2" value="是否超过了热启动阀值" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
           <mxGeometry x="240" y="230" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QQTeGX5ZshziLy3mVFrV-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QQTeGX5ZshziLy3mVFrV-6" target="QQTeGX5ZshziLy3mVFrV-11">
+        <mxCell id="QQTeGX5ZshziLy3mVFrV-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QQTeGX5ZshziLy3mVFrV-6" target="QQTeGX5ZshziLy3mVFrV-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QQTeGX5ZshziLy3mVFrV-13" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QQTeGX5ZshziLy3mVFrV-12">
+        <mxCell id="QQTeGX5ZshziLy3mVFrV-13" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QQTeGX5ZshziLy3mVFrV-12" vertex="1" connectable="0">
           <mxGeometry x="-0.1111" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QQTeGX5ZshziLy3mVFrV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="QQTeGX5ZshziLy3mVFrV-6" target="QQTeGX5ZshziLy3mVFrV-9">
+        <mxCell id="QQTeGX5ZshziLy3mVFrV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="QQTeGX5ZshziLy3mVFrV-6" target="QQTeGX5ZshziLy3mVFrV-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="430" y="149" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QQTeGX5ZshziLy3mVFrV-16" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QQTeGX5ZshziLy3mVFrV-15">
+        <mxCell id="QQTeGX5ZshziLy3mVFrV-16" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QQTeGX5ZshziLy3mVFrV-15" vertex="1" connectable="0">
           <mxGeometry x="-0.5914" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QQTeGX5ZshziLy3mVFrV-6" value="是否为游客模式" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+        <mxCell id="QQTeGX5ZshziLy3mVFrV-6" value="是否为游客模式" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
           <mxGeometry x="390" y="230" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QQTeGX5ZshziLy3mVFrV-9" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+        <mxCell id="QQTeGX5ZshziLy3mVFrV-9" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
           <mxGeometry x="225" y="140" width="110" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="QQTeGX5ZshziLy3mVFrV-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QQTeGX5ZshziLy3mVFrV-11" target="QQTeGX5ZshziLy3mVFrV-17">
+        <mxCell id="QQTeGX5ZshziLy3mVFrV-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QQTeGX5ZshziLy3mVFrV-11" target="QQTeGX5ZshziLy3mVFrV-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QQTeGX5ZshziLy3mVFrV-11" value="动态绑定开屏热启动服务" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+        <mxCell id="QQTeGX5ZshziLy3mVFrV-11" value="动态绑定开屏热启动服务" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
           <mxGeometry x="560" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QQTeGX5ZshziLy3mVFrV-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QQTeGX5ZshziLy3mVFrV-17" target="QQTeGX5ZshziLy3mVFrV-19">
+        <mxCell id="QQTeGX5ZshziLy3mVFrV-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QQTeGX5ZshziLy3mVFrV-17" target="QQTeGX5ZshziLy3mVFrV-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QQTeGX5ZshziLy3mVFrV-21" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QQTeGX5ZshziLy3mVFrV-20">
+        <mxCell id="QQTeGX5ZshziLy3mVFrV-21" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QQTeGX5ZshziLy3mVFrV-20" vertex="1" connectable="0">
           <mxGeometry x="-0.3111" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QQTeGX5ZshziLy3mVFrV-17" value="是否触发绑定回调" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+        <mxCell id="QQTeGX5ZshziLy3mVFrV-17" value="是否触发绑定回调" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
           <mxGeometry x="580" y="340" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QQTeGX5ZshziLy3mVFrV-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QQTeGX5ZshziLy3mVFrV-19" target="QQTeGX5ZshziLy3mVFrV-22">
+        <mxCell id="QQTeGX5ZshziLy3mVFrV-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QQTeGX5ZshziLy3mVFrV-19" target="QQTeGX5ZshziLy3mVFrV-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QQTeGX5ZshziLy3mVFrV-19" value="热启动广告请求" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+        <mxCell id="j6TirndoVuRGFy-XKHnh-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QQTeGX5ZshziLy3mVFrV-19" target="QQTeGX5ZshziLy3mVFrV-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QQTeGX5ZshziLy3mVFrV-19" value="发起热启动广告请求,同时发起解绑通知" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
           <mxGeometry x="370" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QQTeGX5ZshziLy3mVFrV-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QQTeGX5ZshziLy3mVFrV-22" target="QQTeGX5ZshziLy3mVFrV-24">
+        <mxCell id="QQTeGX5ZshziLy3mVFrV-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QQTeGX5ZshziLy3mVFrV-22" target="QQTeGX5ZshziLy3mVFrV-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QQTeGX5ZshziLy3mVFrV-26" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QQTeGX5ZshziLy3mVFrV-25">
+        <mxCell id="QQTeGX5ZshziLy3mVFrV-26" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QQTeGX5ZshziLy3mVFrV-25" vertex="1" connectable="0">
           <mxGeometry x="-0.12" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QQTeGX5ZshziLy3mVFrV-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QQTeGX5ZshziLy3mVFrV-22" target="QQTeGX5ZshziLy3mVFrV-31">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="280" y="525" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QQTeGX5ZshziLy3mVFrV-33" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QQTeGX5ZshziLy3mVFrV-32">
-          <mxGeometry x="-0.5342" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QQTeGX5ZshziLy3mVFrV-22" value="广告是否成功展示" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+        <mxCell id="QQTeGX5ZshziLy3mVFrV-22" value="广告是否成功展示" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
           <mxGeometry x="240" y="340" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QQTeGX5ZshziLy3mVFrV-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QQTeGX5ZshziLy3mVFrV-24" target="QQTeGX5ZshziLy3mVFrV-31">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="130" y="480" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QQTeGX5ZshziLy3mVFrV-29" value="广告页销毁" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QQTeGX5ZshziLy3mVFrV-28">
-          <mxGeometry x="-0.1429" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QQTeGX5ZshziLy3mVFrV-24" value="展示广告" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+        <mxCell id="QQTeGX5ZshziLy3mVFrV-24" value="展示广告" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
           <mxGeometry x="70" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QQTeGX5ZshziLy3mVFrV-31" value="发起通知解绑service服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
-          <mxGeometry x="72.5" y="500" width="115" height="50" as="geometry" />
+        <mxCell id="QQTeGX5ZshziLy3mVFrV-31" value="解绑service服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+          <mxGeometry x="372.5" y="470" width="115" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
