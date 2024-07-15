@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T10:26:44.695Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="u7KPHpK3iICCpd3nEEuj" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-15T10:36:40.300Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="JsAbZ7taB2Z8_jg1x1RA" version="24.6.4" type="github">
   <diagram name="第 1 页" id="-s2dCR7IuIYRaGlUctrS">
-    <mxGraphModel dx="2385" dy="1240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1193" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -383,6 +383,14 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="UE6sxcP114Fre6v7LVRV-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UE6sxcP114Fre6v7LVRV-105" target="UE6sxcP114Fre6v7LVRV-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UE6sxcP114Fre6v7LVRV-179" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UE6sxcP114Fre6v7LVRV-178">
+          <mxGeometry x="-0.5167" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UE6sxcP114Fre6v7LVRV-105" value="图片高大于等于宽" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
           <mxGeometry x="1030" y="1180" width="80" height="80" as="geometry" />
         </mxCell>
@@ -481,10 +489,28 @@
           <mxGeometry x="760" y="1290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UE6sxcP114Fre6v7LVRV-157" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UE6sxcP114Fre6v7LVRV-150" target="UE6sxcP114Fre6v7LVRV-156">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="1380" />
+              <mxPoint x="520" y="1380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UE6sxcP114Fre6v7LVRV-180" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UE6sxcP114Fre6v7LVRV-157">
+          <mxGeometry x="0.0147" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UE6sxcP114Fre6v7LVRV-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UE6sxcP114Fre6v7LVRV-150" target="UE6sxcP114Fre6v7LVRV-161">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="UE6sxcP114Fre6v7LVRV-186" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UE6sxcP114Fre6v7LVRV-185">
+          <mxGeometry x="-0.4926" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UE6sxcP114Fre6v7LVRV-150" value="是否为规定广告位且为左图右文或者右图左文" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
-          <mxGeometry x="605" y="1270" width="110" height="100" as="geometry" />
+          <mxGeometry x="625" y="1270" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="UE6sxcP114Fre6v7LVRV-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UE6sxcP114Fre6v7LVRV-156" target="UE6sxcP114Fre6v7LVRV-158">
           <mxGeometry relative="1" as="geometry" />
@@ -503,31 +529,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UE6sxcP114Fre6v7LVRV-156" value="view宽度大于后台设置的宽度阀值(屏幕乘以百分比)" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
-          <mxGeometry x="607.5" y="1420" width="105" height="110" as="geometry" />
+          <mxGeometry x="467.5" y="1425" width="105" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="UE6sxcP114Fre6v7LVRV-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UE6sxcP114Fre6v7LVRV-158" target="UE6sxcP114Fre6v7LVRV-161">
+        <mxCell id="UE6sxcP114Fre6v7LVRV-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UE6sxcP114Fre6v7LVRV-158" target="UE6sxcP114Fre6v7LVRV-161">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="490" y="1610" />
+              <mxPoint x="370" y="1590" />
+              <mxPoint x="700" y="1590" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UE6sxcP114Fre6v7LVRV-158" value="将宽度设置为阀值然后按宽高的比例缩小高度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="430" y="1445" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UE6sxcP114Fre6v7LVRV-167" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UE6sxcP114Fre6v7LVRV-161" target="UE6sxcP114Fre6v7LVRV-166">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="310" y="1448" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UE6sxcP114Fre6v7LVRV-161" value="设置广告位view的宽高" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="600" y="1580" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UE6sxcP114Fre6v7LVRV-170" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UE6sxcP114Fre6v7LVRV-166" target="UE6sxcP114Fre6v7LVRV-169">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UE6sxcP114Fre6v7LVRV-171" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UE6sxcP114Fre6v7LVRV-170">
-          <mxGeometry x="-0.1485" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+          <mxGeometry x="620" y="1450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UE6sxcP114Fre6v7LVRV-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UE6sxcP114Fre6v7LVRV-166" target="UE6sxcP114Fre6v7LVRV-168">
           <mxGeometry relative="1" as="geometry" />
@@ -537,8 +553,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="UE6sxcP114Fre6v7LVRV-183" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UE6sxcP114Fre6v7LVRV-166" target="UE6sxcP114Fre6v7LVRV-169">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UE6sxcP114Fre6v7LVRV-184" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UE6sxcP114Fre6v7LVRV-183">
+          <mxGeometry x="-0.0912" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UE6sxcP114Fre6v7LVRV-166" value="是否需要展示灰色蒙层" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
-          <mxGeometry x="780" y="1570" width="80" height="80" as="geometry" />
+          <mxGeometry x="812.5" y="1570" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UE6sxcP114Fre6v7LVRV-168" value="回调成功交给具体业务处理" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="960" y="1450" width="120" height="60" as="geometry" />
@@ -546,8 +570,14 @@
         <mxCell id="UE6sxcP114Fre6v7LVRV-172" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UE6sxcP114Fre6v7LVRV-169" target="UE6sxcP114Fre6v7LVRV-168">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="UE6sxcP114Fre6v7LVRV-182" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UE6sxcP114Fre6v7LVRV-161" target="UE6sxcP114Fre6v7LVRV-169">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="1480" as="sourcePoint" />
+            <mxPoint x="820" y="1570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UE6sxcP114Fre6v7LVRV-169" value="设置广告蒙层" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="760" y="1450" width="120" height="60" as="geometry" />
+          <mxGeometry x="792.5" y="1450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
