@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T03:00:14.279Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ajKU0tOyXF73E405MT3F" version="24.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-23T04:15:09.928Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="iAzkmI64RqGFsxTWTTAX" version="24.7.3" type="github">
   <diagram name="Page-1" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">
-    <mxGraphModel dx="2835" dy="1752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2054" dy="1346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -264,13 +264,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DYaqVIQ8ZScYYBNlhMp5-34" value="&lt;div&gt;(1015,1016&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdFeedChannelCreaterMachine&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="-150" y="1330" width="200" height="40" as="geometry" />
+          <mxGeometry x="-139" y="1330" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DYaqVIQ8ZScYYBNlhMp5-35" value="&lt;div&gt;(2002,2004,2003,2005,2006,2007&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdMeViewCreater&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="-150" y="1405" width="200" height="40" as="geometry" />
+          <mxGeometry x="-139" y="1405" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DYaqVIQ8ZScYYBNlhMp5-36" value="&lt;div&gt;(1017&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;7.0实景顶部banner)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdStyleLiveTopBannerCreater&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
-          <mxGeometry x="-150" y="1485" width="200" height="40" as="geometry" />
+          <mxGeometry x="-139" y="1485" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-84" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;startArrow=none;endArrow=none;" parent="1" source="DYaqVIQ8ZScYYBNlhMp5-37" target="G_2Q7d8G3R7fMCKb-q9A-83" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -282,19 +282,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DYaqVIQ8ZScYYBNlhMp5-37" value="&lt;div&gt;(6001短视频)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdVideoTabCreaterMachine&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="-150" y="1560" width="200" height="40" as="geometry" />
+          <mxGeometry x="-139" y="1560" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DYaqVIQ8ZScYYBNlhMp5-38" value="&lt;div&gt;(5004实景评论列表)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdStyleLiveCommentEvelenCreater&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
-          <mxGeometry x="-150" y="1630" width="200" height="40" as="geometry" />
+          <mxGeometry x="-139" y="1630" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DYaqVIQ8ZScYYBNlhMp5-39" value="&lt;div&gt;(2008我页面运营Banner)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdStyleMeBannerCreater&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
-          <mxGeometry x="-150" y="1790" width="200" height="40" as="geometry" />
+          <mxGeometry x="-139" y="1790" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DYaqVIQ8ZScYYBNlhMp5-40" value="&lt;div&gt;(312,220)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdStyleTitleCreater&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
-          <mxGeometry x="-150" y="1860" width="200" height="40" as="geometry" />
+          <mxGeometry x="-139" y="1860" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DYaqVIQ8ZScYYBNlhMp5-41" value="&lt;div&gt;(4013拉绳广告)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdStyleFeedStayCordCreater&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="-150" y="1930" width="200" height="40" as="geometry" />
+          <mxGeometry x="-139" y="1930" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-89" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;startArrow=none;endArrow=none;" parent="1" source="DYaqVIQ8ZScYYBNlhMp5-42" target="G_2Q7d8G3R7fMCKb-q9A-88" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -312,7 +312,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DYaqVIQ8ZScYYBNlhMp5-42" value="&lt;div&gt;(4014首页信息流顶部图文广告)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdFeedTopCreaterMachine&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="-150" y="1710" width="200" height="40" as="geometry" />
+          <mxGeometry x="-139" y="1710" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-102" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;startArrow=none;endArrow=none;" parent="1" source="DYaqVIQ8ZScYYBNlhMp5-43" target="G_2Q7d8G3R7fMCKb-q9A-101" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -342,7 +342,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DYaqVIQ8ZScYYBNlhMp5-43" value="&lt;div&gt;(307,306,310,311,1012,1013,1004,314)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdMachineMainCard&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="-150" y="2080" width="220" height="40" as="geometry" />
+          <mxGeometry x="-139" y="2080" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-157" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DYaqVIQ8ZScYYBNlhMp5-44" target="G_2Q7d8G3R7fMCKb-q9A-156" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -366,7 +366,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DYaqVIQ8ZScYYBNlhMp5-44" value="&lt;div&gt;(4016钓鱼页中部)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdMachineFishCard&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="-150" y="2630" width="220" height="40" as="geometry" />
+          <mxGeometry x="-139" y="2630" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-184" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;" parent="1" source="DYaqVIQ8ZScYYBNlhMp5-45" target="G_2Q7d8G3R7fMCKb-q9A-181" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -386,20 +386,23 @@
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-190" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;" parent="1" source="DYaqVIQ8ZScYYBNlhMp5-45" target="G_2Q7d8G3R7fMCKb-q9A-175" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="tVPkJ1jI9mWUa7ZftRFn-1" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DYaqVIQ8ZScYYBNlhMp5-45" target="G_2Q7d8G3R7fMCKb-q9A-166">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DYaqVIQ8ZScYYBNlhMp5-45" value="&lt;div&gt;(1001,1031)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdMachineCityCard&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="-150" y="3020" width="220" height="40" as="geometry" />
+          <mxGeometry x="-139" y="3020" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DYaqVIQ8ZScYYBNlhMp5-46" value="&lt;div&gt;(106首页实况精灵广告)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdWizardAboveConditionCreater&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="-150" y="2720" width="220" height="40" as="geometry" />
+          <mxGeometry x="-139" y="2720" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DYaqVIQ8ZScYYBNlhMp5-47" value="&lt;div&gt;(109金刚位广告)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdMainDiamondCreater&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="-150" y="2800" width="220" height="40" as="geometry" />
+          <mxGeometry x="-139" y="2800" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DYaqVIQ8ZScYYBNlhMp5-48" value="&lt;div&gt;(110首屏广告牌)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdStyleHomeAdBoardCreater&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
-          <mxGeometry x="-150" y="2870" width="220" height="40" as="geometry" />
+          <mxGeometry x="-139" y="2870" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DYaqVIQ8ZScYYBNlhMp5-49" value="&lt;div&gt;(1019时景首页Icon)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdStyleLiveIconCreater&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="-150" y="3200" width="220" height="40" as="geometry" />
+          <mxGeometry x="-139" y="3200" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-192" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;startArrow=none;endArrow=none;" parent="1" source="DYaqVIQ8ZScYYBNlhMp5-50" target="G_2Q7d8G3R7fMCKb-q9A-191" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -411,7 +414,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DYaqVIQ8ZScYYBNlhMp5-50" value="&lt;div&gt;(221天气首屏浮层广告)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdStyleHomeFloatingCreater&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="-150" y="3290" width="220" height="40" as="geometry" />
+          <mxGeometry x="-139" y="3290" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-197" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;startArrow=none;endArrow=none;" parent="1" source="DYaqVIQ8ZScYYBNlhMp5-51" target="G_2Q7d8G3R7fMCKb-q9A-196" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -423,10 +426,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DYaqVIQ8ZScYYBNlhMp5-51" value="&lt;div&gt;(4017钓圈banner)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdFishingDynamicCard&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="-150" y="3430" width="220" height="40" as="geometry" />
+          <mxGeometry x="-139" y="3430" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DYaqVIQ8ZScYYBNlhMp5-52" value="&lt;div&gt;(4019首页feed综合频道顶部轮播banner)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdFeedBannerCreater&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
-          <mxGeometry x="-150" y="3120" width="220" height="40" as="geometry" />
+          <mxGeometry x="-139" y="3120" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-203" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;startArrow=none;endArrow=none;" parent="1" source="DYaqVIQ8ZScYYBNlhMp5-53" target="G_2Q7d8G3R7fMCKb-q9A-202" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -438,10 +441,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DYaqVIQ8ZScYYBNlhMp5-53" value="&lt;div&gt;&lt;div&gt;(4021feed双视频)&lt;/div&gt;&lt;div&gt;AdStyleDoubleFeedCreater&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="-150" y="3640" width="220" height="40" as="geometry" />
+          <mxGeometry x="-139" y="3640" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DYaqVIQ8ZScYYBNlhMp5-54" value="&lt;div&gt;&lt;div&gt;(4020feed小视频)&lt;/div&gt;&lt;div&gt;AdStyleFeedVideoCreater&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
-          <mxGeometry x="-150" y="3530" width="220" height="40" as="geometry" />
+          <mxGeometry x="-139" y="3530" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-234" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;startArrow=none;endArrow=none;" parent="1" source="DYaqVIQ8ZScYYBNlhMp5-55" target="G_2Q7d8G3R7fMCKb-q9A-229" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -450,13 +453,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DYaqVIQ8ZScYYBNlhMp5-55" value="&lt;div&gt;(4022feed视频详情)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdMachineFeedVideoCard&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="-150" y="3830" width="220" height="40" as="geometry" />
+          <mxGeometry x="-139" y="3830" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-221" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;startArrow=none;endArrow=none;" parent="1" source="DYaqVIQ8ZScYYBNlhMp5-56" target="G_2Q7d8G3R7fMCKb-q9A-220" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DYaqVIQ8ZScYYBNlhMp5-56" value="&lt;div&gt;(4023天气看点)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdMachineWeatherExpressCard&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="-150" y="3980" width="220" height="40" as="geometry" />
+          <mxGeometry x="-139" y="3980" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-1" value="&lt;div&gt;(13悬浮banner&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdStyleSuspendedBannerViewCreater&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="140" y="-130" width="220" height="40" as="geometry" />
@@ -551,32 +554,45 @@
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-52" value="&lt;div&gt;(上文本下三图)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdStyleFeedCommonThreeCreater&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="150" y="1135" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="G_2Q7d8G3R7fMCKb-q9A-53" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;startArrow=none;endArrow=none;" parent="1" source="G_2Q7d8G3R7fMCKb-q9A-54" target="G_2Q7d8G3R7fMCKb-q9A-55" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="G_2Q7d8G3R7fMCKb-q9A-53" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;startArrow=none;endArrow=none;" parent="1" target="G_2Q7d8G3R7fMCKb-q9A-55" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="361" y="1215" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="G_2Q7d8G3R7fMCKb-q9A-60" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;startArrow=none;endArrow=none;" parent="1" source="G_2Q7d8G3R7fMCKb-q9A-54" target="G_2Q7d8G3R7fMCKb-q9A-55" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="G_2Q7d8G3R7fMCKb-q9A-60" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;startArrow=none;endArrow=none;" parent="1" target="G_2Q7d8G3R7fMCKb-q9A-55" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="361" y="1215" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="G_2Q7d8G3R7fMCKb-q9A-61" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;startArrow=none;endArrow=none;" parent="1" source="G_2Q7d8G3R7fMCKb-q9A-54" target="G_2Q7d8G3R7fMCKb-q9A-55" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="G_2Q7d8G3R7fMCKb-q9A-61" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;startArrow=none;endArrow=none;" parent="1" target="G_2Q7d8G3R7fMCKb-q9A-55" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="361" y="1215" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-63" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;startArrow=none;endArrow=none;" parent="1" source="G_2Q7d8G3R7fMCKb-q9A-54" target="G_2Q7d8G3R7fMCKb-q9A-62" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="1180" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="G_2Q7d8G3R7fMCKb-q9A-65" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G_2Q7d8G3R7fMCKb-q9A-54" target="G_2Q7d8G3R7fMCKb-q9A-64" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="G_2Q7d8G3R7fMCKb-q9A-65" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="G_2Q7d8G3R7fMCKb-q9A-64" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="361" y="1215" as="sourcePoint" />
+            <mxPoint x="451" y="1213" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-54" value="&lt;div&gt;adStyle=8&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
           <mxGeometry x="150" y="1195" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-55" value="&lt;div&gt;自有视频&lt;/div&gt;AdStyleFeedCommonVideoCreater" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="440" y="1250" width="200" height="40" as="geometry" />
+          <mxGeometry x="440" y="1255" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-62" value="广点通&lt;div&gt;AdFeedGDTVideoCreater&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
           <mxGeometry x="440" y="1130" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-64" value="&lt;div&gt;头条&lt;/div&gt;&lt;div&gt;AdFeedTouTiaoVideoCreater&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="440" y="1193" width="200" height="40" as="geometry" />
+          <mxGeometry x="440" y="1195" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-66" value="&lt;div&gt;(上文本下图&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdStyleFeedChannelOneCreater&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="150" y="1255" width="200" height="40" as="geometry" />
@@ -585,7 +601,7 @@
           <mxGeometry x="150" y="1320" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-68" value="&lt;div&gt;(上文本下三图)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdStyleFeedChannelThreeCreater&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
-          <mxGeometry x="150" y="1385" width="200" height="40" as="geometry" />
+          <mxGeometry x="150" y="1390" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-69" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;startArrow=none;endArrow=none;" parent="1" source="G_2Q7d8G3R7fMCKb-q9A-74" target="G_2Q7d8G3R7fMCKb-q9A-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -606,13 +622,13 @@
           <mxGeometry x="150" y="1445" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-75" value="&lt;div&gt;自有视频&lt;/div&gt;&lt;div&gt;AdStyleEightCreater&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="440" y="1500" width="200" height="40" as="geometry" />
+          <mxGeometry x="451" y="1500" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-76" value="广点通&lt;div&gt;AdFeedGDTVideoCreater&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="440" y="1380" width="200" height="40" as="geometry" />
+          <mxGeometry x="451" y="1380" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-77" value="&lt;div&gt;头条&lt;/div&gt;&lt;div&gt;AdFeedTouTiaoVideoCreater&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="440" y="1443" width="200" height="40" as="geometry" />
+          <mxGeometry x="451" y="1443" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-83" value="&lt;div&gt;(上文本下图)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdStyleVideoFiveCreater&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="150" y="1500" width="200" height="40" as="geometry" />
@@ -639,10 +655,10 @@
           <mxGeometry x="150" y="1810" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-96" value="&lt;div&gt;广点通&lt;/div&gt;AdStyleGdtFiveCreater" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
-          <mxGeometry x="440" y="1780" width="200" height="40" as="geometry" />
+          <mxGeometry x="451" y="1780" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-98" value="AdStyleFiveCreater" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
-          <mxGeometry x="440" y="1840" width="200" height="40" as="geometry" />
+          <mxGeometry x="451" y="1840" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-101" value="&lt;div&gt;(左图右文)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdCreaterMainCard2&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="150" y="1930" width="220" height="40" as="geometry" />
@@ -696,31 +712,31 @@
           <mxGeometry x="150" y="2280" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-110" value="广点通&lt;div&gt;AdCreaterMainCard5ForGDT&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
-          <mxGeometry x="440" y="1970" width="220" height="40" as="geometry" />
+          <mxGeometry x="451" y="1970" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-112" value="AdCreaterMainCard5" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
-          <mxGeometry x="440" y="2030" width="220" height="40" as="geometry" />
+          <mxGeometry x="451" y="2030" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-114" value="广点通&lt;div&gt;AdCreaterMainCard8ForGDT&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="440" y="2100" width="220" height="40" as="geometry" />
+          <mxGeometry x="451" y="2100" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-116" value="&lt;div&gt;头条&lt;/div&gt;&lt;div&gt;AdCreaterMainCard8ForTouTiao&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="440" y="2160" width="220" height="40" as="geometry" />
+          <mxGeometry x="451" y="2160" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-117" value="&lt;div&gt;百度&lt;/div&gt;&lt;div&gt;AdCreaterMainCard8ForBaiDu&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="440" y="2220" width="220" height="40" as="geometry" />
+          <mxGeometry x="451" y="2220" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-118" value="&lt;div&gt;自有&lt;/div&gt;&lt;div&gt;AdCreaterMainCard8&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="440" y="2280" width="220" height="40" as="geometry" />
+          <mxGeometry x="451" y="2280" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-129" value="广点通&lt;div&gt;CommonAdCreaterMainCard9ForGDT&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="440" y="2340" width="220" height="40" as="geometry" />
+          <mxGeometry x="451" y="2340" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-130" value="&lt;div&gt;头条&lt;/div&gt;&lt;div&gt;CommonAdCreaterMainCard9ForTouTiao&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="440" y="2400" width="230" height="40" as="geometry" />
+          <mxGeometry x="451" y="2400" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-131" value="&lt;div&gt;百度&lt;/div&gt;&lt;div&gt;CommonAdCreaterMainCard9ForBaiDu&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="440" y="2460" width="220" height="40" as="geometry" />
+          <mxGeometry x="451" y="2460" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-135" value="&lt;div&gt;(纯图)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdCreaterMainCard1&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="150" y="1870" width="220" height="40" as="geometry" />
@@ -759,19 +775,19 @@
           <mxGeometry x="150" y="2790" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-150" value="广点通&lt;div&gt;AdCreaterFishingCard5ForGDT&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
-          <mxGeometry x="440" y="2550" width="220" height="40" as="geometry" />
+          <mxGeometry x="451" y="2550" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-151" value="AdCreaterFishingCard5" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
-          <mxGeometry x="440" y="2610" width="220" height="40" as="geometry" />
+          <mxGeometry x="451" y="2610" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-152" value="广点通&lt;div&gt;AdCreaterFishingCard8ForGDT&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="440" y="2670" width="220" height="40" as="geometry" />
+          <mxGeometry x="451" y="2670" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-153" value="&lt;div&gt;头条&lt;/div&gt;&lt;div&gt;AdCreaterFishingCard8ForTouTiao&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="440" y="2730" width="220" height="40" as="geometry" />
+          <mxGeometry x="451" y="2730" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-155" value="&lt;div&gt;自有&lt;/div&gt;&lt;div&gt;AdCreaterFishingCard8&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="440" y="2790" width="220" height="40" as="geometry" />
+          <mxGeometry x="451" y="2790" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-156" value="&lt;div&gt;(纯图)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdCreaterFishingCard1&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="150" y="2450" width="220" height="40" as="geometry" />
@@ -813,25 +829,25 @@
           <mxGeometry x="150" y="3200" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-176" value="广点通&lt;div&gt;AdCreaterMainCard5ForGDTCity&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
-          <mxGeometry x="440" y="2960" width="220" height="40" as="geometry" />
+          <mxGeometry x="451" y="2960" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-177" value="AdCreaterMainCard5City" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
-          <mxGeometry x="440" y="3020" width="220" height="40" as="geometry" />
+          <mxGeometry x="451" y="3020" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-178" value="广点通&lt;div&gt;AdCreaterMainCard8ForGDT&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="440" y="3080" width="220" height="40" as="geometry" />
+          <mxGeometry x="451" y="3080" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-179" value="&lt;div&gt;头条&lt;/div&gt;&lt;div&gt;AdCreaterMainCard8ForTouTiao&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="440" y="3140" width="220" height="40" as="geometry" />
+          <mxGeometry x="451" y="3140" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-180" value="&lt;div&gt;自有&lt;/div&gt;&lt;div&gt;AdCreaterMainCard8&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="440" y="3280" width="220" height="40" as="geometry" />
+          <mxGeometry x="451" y="3280" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-181" value="&lt;div&gt;(纯图)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdCreaterMainCard1ForCity&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="150" y="2860" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-182" value="&lt;div&gt;百度&lt;/div&gt;&lt;div&gt;AdCreaterMainCard8ForBaiDu&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="440" y="3210" width="220" height="40" as="geometry" />
+          <mxGeometry x="451" y="3210" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-191" value="&lt;div&gt;(动图)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdMainFloatingImgCreater&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="150" y="3260" width="220" height="40" as="geometry" />
@@ -870,16 +886,16 @@
           <mxGeometry x="150" y="3710" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-212" value="广点通&lt;div&gt;AdStyleDoubleFeedVideoGDTCreater&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="440" y="3520" width="220" height="40" as="geometry" />
+          <mxGeometry x="451" y="3520" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-214" value="自有&lt;div&gt;AdStyleDoubleFeedVideoMJCreater&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="440" y="3710" width="220" height="40" as="geometry" />
+          <mxGeometry x="451" y="3710" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-215" value="&lt;div&gt;百度&lt;/div&gt;&lt;div&gt;AdStyleDoubleFeedVideoBDCreater&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="440" y="3650" width="220" height="40" as="geometry" />
+          <mxGeometry x="451" y="3650" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-216" value="&lt;div&gt;头条&lt;/div&gt;&lt;div&gt;AdStyleDoubleFeedVideoToTextCreater&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="440" y="3580" width="220" height="40" as="geometry" />
+          <mxGeometry x="451" y="3580" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-220" value="&lt;div&gt;(图文)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdStyleWeatherExpressTextCreater&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
           <mxGeometry x="150" y="3980" width="220" height="40" as="geometry" />
@@ -903,16 +919,16 @@
           <mxGeometry x="150" y="3870" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-230" value="广点通&lt;div&gt;AdStyleFeedDetailVideoGDTCreater&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="440" y="3770" width="220" height="40" as="geometry" />
+          <mxGeometry x="451" y="3770" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-231" value="自有&lt;div&gt;AdStyleFeedDetailVideoMoJiCreater&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="440" y="3960" width="220" height="40" as="geometry" />
+          <mxGeometry x="451" y="3960" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-232" value="&lt;div&gt;百度&lt;/div&gt;&lt;div&gt;AdStyleFeedDetailVideoBDCreater&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="440" y="3900" width="220" height="40" as="geometry" />
+          <mxGeometry x="451" y="3900" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-233" value="&lt;div&gt;头条&lt;/div&gt;&lt;div&gt;AdStyleFeedDetailVideoTTCreater&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="440" y="3830" width="220" height="40" as="geometry" />
+          <mxGeometry x="451" y="3830" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E5cNikqh44JiMb6HzRtw-5" value="&lt;div&gt;(广告样式1)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdStyleOneForFeedTopBannerCreater&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="150" y="1610" width="210" height="40" as="geometry" />
