@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T02:59:04.751Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="iZMHmav_Y88b4AWwocyF" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-23T03:00:14.279Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ajKU0tOyXF73E405MT3F" version="24.7.3" type="github">
   <diagram name="Page-1" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">
-    <mxGraphModel dx="3485" dy="2090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2835" dy="1752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -308,7 +308,7 @@
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-95" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DYaqVIQ8ZScYYBNlhMp5-42" target="G_2Q7d8G3R7fMCKb-q9A-92" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E5cNikqh44JiMb6HzRtw-6" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DYaqVIQ8ZScYYBNlhMp5-42" target="E5cNikqh44JiMb6HzRtw-5">
+        <mxCell id="E5cNikqh44JiMb6HzRtw-6" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DYaqVIQ8ZScYYBNlhMp5-42" target="E5cNikqh44JiMb6HzRtw-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DYaqVIQ8ZScYYBNlhMp5-42" value="&lt;div&gt;(4014首页信息流顶部图文广告)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdFeedTopCreaterMachine&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
@@ -914,13 +914,7 @@
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-233" value="&lt;div&gt;头条&lt;/div&gt;&lt;div&gt;AdStyleFeedDetailVideoTTCreater&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
           <mxGeometry x="440" y="3830" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E5cNikqh44JiMb6HzRtw-3" value="继承了AbsAdImageViewCreater的样式" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="-180" width="260" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="E5cNikqh44JiMb6HzRtw-4" value="feed小视频:AdStyleFeedVideoCreater&lt;div&gt;feed2.1频道页视图上文下图&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="E5cNikqh44JiMb6HzRtw-3">
-          <mxGeometry x="10" y="35" width="230" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="E5cNikqh44JiMb6HzRtw-5" value="&lt;div&gt;(广告样式1)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdStyleOneForFeedTopBannerCreater&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+        <mxCell id="E5cNikqh44JiMb6HzRtw-5" value="&lt;div&gt;(广告样式1)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdStyleOneForFeedTopBannerCreater&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="150" y="1610" width="210" height="40" as="geometry" />
         </mxCell>
       </root>
