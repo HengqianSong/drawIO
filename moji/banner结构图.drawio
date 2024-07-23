@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T04:15:09.928Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="iAzkmI64RqGFsxTWTTAX" version="24.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-23T04:17:56.384Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="9sHqz-Z9Hp81MI_KYOKv" version="24.7.3" type="github">
   <diagram name="Page-1" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">
-    <mxGraphModel dx="2054" dy="1346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2463" dy="1559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -386,7 +386,7 @@
         <mxCell id="G_2Q7d8G3R7fMCKb-q9A-190" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;" parent="1" source="DYaqVIQ8ZScYYBNlhMp5-45" target="G_2Q7d8G3R7fMCKb-q9A-175" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tVPkJ1jI9mWUa7ZftRFn-1" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DYaqVIQ8ZScYYBNlhMp5-45" target="G_2Q7d8G3R7fMCKb-q9A-166">
+        <mxCell id="tVPkJ1jI9mWUa7ZftRFn-1" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DYaqVIQ8ZScYYBNlhMp5-45" target="G_2Q7d8G3R7fMCKb-q9A-166" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DYaqVIQ8ZScYYBNlhMp5-45" value="&lt;div&gt;(1001,1031)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdMachineCityCard&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
@@ -932,6 +932,9 @@
         </mxCell>
         <mxCell id="E5cNikqh44JiMb6HzRtw-5" value="&lt;div&gt;(广告样式1)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AdStyleOneForFeedTopBannerCreater&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="150" y="1610" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3B1KHcx_kp1MPgX_5-vR-1" value="广告位" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="1120" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
