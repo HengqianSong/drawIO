@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T06:46:24.696Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="0mXBOzsN6TiN0C-2RczV" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="第 1 页" id="-s2dCR7IuIYRaGlUctrS">
-    <mxGraphModel dx="1272" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1122" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -534,13 +534,18 @@
         <mxCell id="UE6sxcP114Fre6v7LVRV-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="UE6sxcP114Fre6v7LVRV-158" target="UE6sxcP114Fre6v7LVRV-161" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="370" y="1590" />
-              <mxPoint x="700" y="1590" />
+              <mxPoint x="370" y="1550" />
+              <mxPoint x="680" y="1550" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UE6sxcP114Fre6v7LVRV-158" value="将宽度设置为阀值然后按宽高的比例缩小高度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="310" y="1448" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WIi7qBNPPPBhjBeMwvJP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UE6sxcP114Fre6v7LVRV-161" target="UE6sxcP114Fre6v7LVRV-166">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="1590" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="UE6sxcP114Fre6v7LVRV-161" value="设置广告位view的宽高" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="620" y="1450" width="120" height="60" as="geometry" />
