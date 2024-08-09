@@ -1,9 +1,239 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="第 1 页" id="bC0nHbna86JXU_Xqwt9G">
-    <mxGraphModel>
+    <mxGraphModel dx="3553" dy="2586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TdePrywCVsU_22A5aDpP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TdePrywCVsU_22A5aDpP-2" target="TdePrywCVsU_22A5aDpP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="-130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TdePrywCVsU_22A5aDpP-4" target="TdePrywCVsU_22A5aDpP-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-4" value="banner广告请求" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="250" y="-140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TdePrywCVsU_22A5aDpP-7" target="TdePrywCVsU_22A5aDpP-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-6" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TdePrywCVsU_22A5aDpP-5">
+          <mxGeometry x="-0.068" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-7" value="是否有数据返回" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TdePrywCVsU_22A5aDpP-9" target="TdePrywCVsU_22A5aDpP-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-9" value="墨迹服务器返回广告投放" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="420" y="-140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TdePrywCVsU_22A5aDpP-11" target="TdePrywCVsU_22A5aDpP-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-11" value="发起SDK请求" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="670" y="-140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TdePrywCVsU_22A5aDpP-14" target="TdePrywCVsU_22A5aDpP-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-14" value="过滤不可用的素材" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="670" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TdePrywCVsU_22A5aDpP-16" target="TdePrywCVsU_22A5aDpP-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-16" value="竞价获取最优广告" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="20" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TdePrywCVsU_22A5aDpP-19" target="TdePrywCVsU_22A5aDpP-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-48" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TdePrywCVsU_22A5aDpP-46">
+          <mxGeometry x="-0.16" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TdePrywCVsU_22A5aDpP-19" target="TdePrywCVsU_22A5aDpP-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-55" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TdePrywCVsU_22A5aDpP-51">
+          <mxGeometry x="-0.1024" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-19" value="是否所有SDK都返回了请求结果" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="263.5" y="130" width="93" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TdePrywCVsU_22A5aDpP-24" target="TdePrywCVsU_22A5aDpP-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-24" value="广告请求" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="420" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TdePrywCVsU_22A5aDpP-31" target="TdePrywCVsU_22A5aDpP-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-33" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TdePrywCVsU_22A5aDpP-32">
+          <mxGeometry x="-0.0667" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TdePrywCVsU_22A5aDpP-31" target="TdePrywCVsU_22A5aDpP-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-36" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TdePrywCVsU_22A5aDpP-35">
+          <mxGeometry x="-0.0182" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-31" value="是否返回广告素材" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="690" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-34" value="舍弃该广告" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="880" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TdePrywCVsU_22A5aDpP-37" target="TdePrywCVsU_22A5aDpP-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TdePrywCVsU_22A5aDpP-37" target="TdePrywCVsU_22A5aDpP-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-37" value="数据转换，根据素材类型和支持的投放样式转化为实际展示的样式" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="450" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-47" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TdePrywCVsU_22A5aDpP-40" target="TdePrywCVsU_22A5aDpP-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TdePrywCVsU_22A5aDpP-40" target="TdePrywCVsU_22A5aDpP-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-54" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TdePrywCVsU_22A5aDpP-53">
+          <mxGeometry x="-0.0053" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-40" value="是否到达了超时时间" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="463.5" y="260" width="93" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TdePrywCVsU_22A5aDpP-45" target="TdePrywCVsU_22A5aDpP-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-45" value="是否已经开始竞价" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="263.5" y="260" width="93" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-50" value="等待" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="20" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-52" value="等待" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="650" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TdePrywCVsU_22A5aDpP-56" target="TdePrywCVsU_22A5aDpP-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-60" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TdePrywCVsU_22A5aDpP-59">
+          <mxGeometry x="-0.0484" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TdePrywCVsU_22A5aDpP-56" target="TdePrywCVsU_22A5aDpP-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-66" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TdePrywCVsU_22A5aDpP-63">
+          <mxGeometry x="-0.5041" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-56" value="是否需要素材审核" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="33.5" y="420" width="93" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TdePrywCVsU_22A5aDpP-58" target="TdePrywCVsU_22A5aDpP-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-58" value="素材审核" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="250" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TdePrywCVsU_22A5aDpP-61" target="TdePrywCVsU_22A5aDpP-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-67" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TdePrywCVsU_22A5aDpP-65">
+          <mxGeometry x="-0.4853" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TdePrywCVsU_22A5aDpP-61" target="TdePrywCVsU_22A5aDpP-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-70" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TdePrywCVsU_22A5aDpP-69">
+          <mxGeometry x="0.0293" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-61" value="审核是否通过" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="463.5" y="420" width="93" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TdePrywCVsU_22A5aDpP-64" target="TdePrywCVsU_22A5aDpP-74">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="630" />
+              <mxPoint x="94" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-64" value="竖版视频样式渲染" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="250" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TdePrywCVsU_22A5aDpP-68" target="TdePrywCVsU_22A5aDpP-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-68" value="获取一条免审的广告" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="660" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TdePrywCVsU_22A5aDpP-74" target="TdePrywCVsU_22A5aDpP-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-74" value="绘制广告位大小，根据屏幕宽度按16:9比例确定广告高度" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="33.5" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TdePrywCVsU_22A5aDpP-76" target="TdePrywCVsU_22A5aDpP-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-76" value="根据广告位高度按照9:16的比例绘制视频的宽度" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="263.5" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TdePrywCVsU_22A5aDpP-80" target="TdePrywCVsU_22A5aDpP-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-80" value="绑定视频的播放相关的监测回调" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="500" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TdePrywCVsU_22A5aDpP-82" target="TdePrywCVsU_22A5aDpP-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-82" value="绑定点击曝光监测" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="707" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TdePrywCVsU_22A5aDpP-86" value="展示广告" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="930" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
