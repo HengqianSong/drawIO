@@ -108,6 +108,12 @@
         <mxCell id="1goMoPxQiR9Q-kaNRsh4-28" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="640" y="750" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1goMoPxQiR9Q-kaNRsh4-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1goMoPxQiR9Q-kaNRsh4-31" target="1goMoPxQiR9Q-kaNRsh4-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1goMoPxQiR9Q-kaNRsh4-31" value="根据PRD需要数据拼装，其他暂时不用的字段使用默认值" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="460" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
