@@ -64,6 +64,45 @@
             <mxPoint x="290" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="s-V4GH6CY9me7H-YAkRb-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s-V4GH6CY9me7H-YAkRb-20" target="s-V4GH6CY9me7H-YAkRb-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s-V4GH6CY9me7H-YAkRb-20" value="视图层" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="720" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s-V4GH6CY9me7H-YAkRb-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s-V4GH6CY9me7H-YAkRb-21" target="s-V4GH6CY9me7H-YAkRb-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s-V4GH6CY9me7H-YAkRb-21" value="交互层" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="980" y="230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s-V4GH6CY9me7H-YAkRb-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s-V4GH6CY9me7H-YAkRb-24" target="s-V4GH6CY9me7H-YAkRb-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s-V4GH6CY9me7H-YAkRb-24" value="网络层" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="720" y="-45" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s-V4GH6CY9me7H-YAkRb-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s-V4GH6CY9me7H-YAkRb-26" target="s-V4GH6CY9me7H-YAkRb-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s-V4GH6CY9me7H-YAkRb-26" value="数据层" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="980" y="-45" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s-V4GH6CY9me7H-YAkRb-27" value="监控层" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="980" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s-V4GH6CY9me7H-YAkRb-32" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s-V4GH6CY9me7H-YAkRb-20" target="s-V4GH6CY9me7H-YAkRb-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="195" as="sourcePoint" />
+            <mxPoint x="990" y="145" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s-V4GH6CY9me7H-YAkRb-34" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="s-V4GH6CY9me7H-YAkRb-20" target="s-V4GH6CY9me7H-YAkRb-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="130" as="sourcePoint" />
+            <mxPoint x="850" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
