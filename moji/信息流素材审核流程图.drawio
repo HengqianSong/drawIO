@@ -29,11 +29,67 @@
         <mxCell id="oLlinffS4dHNlLRgd4aY-4" value="第一名是价格是否免审" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="300" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="oLlinffS4dHNlLRgd4aY-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oLlinffS4dHNlLRgd4aY-6" value="直接进入到展示逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oLlinffS4dHNlLRgd4aY-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oLlinffS4dHNlLRgd4aY-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLlinffS4dHNlLRgd4aY-7" target="oLlinffS4dHNlLRgd4aY-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLlinffS4dHNlLRgd4aY-7" value="送审素材" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oLlinffS4dHNlLRgd4aY-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="oLlinffS4dHNlLRgd4aY-12" target="oLlinffS4dHNlLRgd4aY-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oLlinffS4dHNlLRgd4aY-22" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oLlinffS4dHNlLRgd4aY-18">
+          <mxGeometry x="-0.0667" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oLlinffS4dHNlLRgd4aY-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLlinffS4dHNlLRgd4aY-12" target="oLlinffS4dHNlLRgd4aY-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLlinffS4dHNlLRgd4aY-21" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oLlinffS4dHNlLRgd4aY-20">
+          <mxGeometry x="-0.4" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oLlinffS4dHNlLRgd4aY-12" value="是否响应成功" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="450" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oLlinffS4dHNlLRgd4aY-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLlinffS4dHNlLRgd4aY-15" target="oLlinffS4dHNlLRgd4aY-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLlinffS4dHNlLRgd4aY-15" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1、一价素材&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2、二价素材&lt;/span&gt;&lt;br&gt;&lt;div&gt;3、免审打底素材&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="414" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oLlinffS4dHNlLRgd4aY-19" value="客户端遍历可以用广告，获取免审广告中最优的一条去展示" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oLlinffS4dHNlLRgd4aY-25" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLlinffS4dHNlLRgd4aY-23" target="oLlinffS4dHNlLRgd4aY-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLlinffS4dHNlLRgd4aY-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLlinffS4dHNlLRgd4aY-23" target="oLlinffS4dHNlLRgd4aY-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLlinffS4dHNlLRgd4aY-28" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oLlinffS4dHNlLRgd4aY-27">
+          <mxGeometry x="-0.4" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oLlinffS4dHNlLRgd4aY-23" value="返回状态是否为拒审" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oLlinffS4dHNlLRgd4aY-24" value="无可展示的广告" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oLlinffS4dHNlLRgd4aY-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oLlinffS4dHNlLRgd4aY-26" target="oLlinffS4dHNlLRgd4aY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oLlinffS4dHNlLRgd4aY-26" value="服务端返回审核通过的广告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
