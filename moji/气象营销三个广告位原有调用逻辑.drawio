@@ -4,7 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="N2DXWyMeS_klsBGI6xkS-1" value="穿衣助手三件套" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="N2DXWyMeS_klsBGI6xkS-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N2DXWyMeS_klsBGI6xkS-1" target="N2DXWyMeS_klsBGI6xkS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N2DXWyMeS_klsBGI6xkS-1" value="穿衣助手三件套" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="70" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N2DXWyMeS_klsBGI6xkS-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
